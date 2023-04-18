@@ -1,12 +1,30 @@
-# Project Name
+# Naomi's Prettier Config
 
-Project Description
+This package holds my Prettier configuration for easy installation and syncing changes across projects.
 
 ## Live Version
 
-This page is not yet deployed.
+This package is currently published. [View the `npm` page](https://www.npmjs.com/package/@nhcarrigan/prettier-config).
 
-<!--This page is currently deployed. [View the live website.]()-->
+## Installation
+
+To install this package, run the following command:
+
+```bash
+npm i @nhcarrigan/prettier-config prettier
+```
+
+## Compatibility
+
+This package is compatible with Prettier 2.
+
+## Usage
+
+To use this package, add the following to your `.prettierrc.json` file:
+
+```json
+"@nhcarrigan/prettier-config"
+```
 
 ## Feedback and Bugs
 
