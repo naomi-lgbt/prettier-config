@@ -1,0 +1,25 @@
+{
+  "name": "@nhcarrigan/prettier-config",
+  "version": "0.0.0",
+  "description": "Global config for Prettier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no tests yet'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/naomi-lgbt/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Naomi Carrigan",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/naomi-lgbt/prettier-config/issues"
+  },
+  "homepage": "https://github.com/naomi-lgbt/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": ">=2"
+  }
+}
