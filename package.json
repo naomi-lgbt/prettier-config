@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/naomi-lgbt/prettier-config#readme",
   "peerDependencies": {
-    "prettier": ">=2"
+    "prettier": ">=3"
   }
 }
