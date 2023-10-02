@@ -1,6 +1,6 @@
 module.exports = {
-    "endOfLine": "lf",
-    "useTabs": false,
-    "singleQuote": false,
-    "trailingComma": "es5",
-}
+  endOfLine: "lf",
+  useTabs: false,
+  singleQuote: false,
+  trailingComma: "es5",
+};

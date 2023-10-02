@@ -4,7 +4,7 @@
   "description": "Global config for Prettier",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'no tests yet'"
+    "test": "prettier test.js --config ./index.js --check"
   },
   "repository": {
     "type": "git",
